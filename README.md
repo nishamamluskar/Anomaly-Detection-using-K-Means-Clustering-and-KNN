@@ -72,7 +72,10 @@ The project includes:
 - Salary Boxplot
 - Cluster Visualization Scatter Plot
 
-##📌 Example Output
+---
+
+
+📌 Example Output
 -Detection of anomalous salary entries
 -Clustering of salary groups
 -Prediction for new salary inputs
@@ -83,11 +86,15 @@ Salary = 35 → Normal
 Salary = 1005 → Normal
 Extremely low salaries like 17 and 23 are detected as anomalies.
 
-##📈 Future Improvements
+---
+
+
+📈 Future Improvements
 -Use real-world datasets
 -Apply Isolation Forest and DBSCAN
 -Build an interactive dashboard
 -Add performance evaluation metrics
 
 👩‍💻 Author
+
 Nisha Mamluskar
